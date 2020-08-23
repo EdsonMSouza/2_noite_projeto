@@ -1,5 +1,4 @@
-## Informações
-* **Disciplina:** Projeto Prático de Sistemas Aplicados a Negócios
+## Projeto Prático de Sistemas Aplicados a Negócios
 * **Dia:** Segunda-feira
 * **Período:** Noite
 
