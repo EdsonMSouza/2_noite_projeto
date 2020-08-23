@@ -3,8 +3,15 @@
 * **Dia:** Segunda-feira
 * **Período:** Noite
 
+## Professor
+**Edson Melo de Souza**
+	+ e-mail: [prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)
+	+ Currículo acadêmico: [*Lattes*](http://lattes.cnpq.br/2641658716558510)
+	+ LinkedIn: [souzaem](https://www.linkedin.com/in/souzaem/)
+	+ Instagram: [@edsouzowski](https://www.instagram.com/edsouzowski/)
+
 ## Descrição
-* Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos em aula e fora dela, a fim de criar uma empresa/negócio
+Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos em aula e fora dela, a fim de criar uma empresa/negócio
 
 ## Links recomendados para leitura
 + [SEBRAE](https://m.sebrae.com.br/sites/PortalSebrae/artigos/passo-a-passo-para-elaborar-o-plano-de-negocios-de-sua-empresa,d7296a2bd9ded410VgnVCM1000003b74010aRCRD)
@@ -50,12 +57,3 @@
 	+ Quais as qualificações desejadas para a equipe?
 	+ Como definir a remuneração dos colaboradores?
 	+ Quais são os consultores ou especialistas necessários?
-
-
-## Professor
-
-### Edson Melo de Souza
-+ e-mail: [prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)
-+ Currículo acadêmico: [*Lattes*](http://lattes.cnpq.br/2641658716558510)
-+ LinkedIn: [souzaem](https://www.linkedin.com/in/souzaem/)
-+ Instagram: [@edsouzowski](https://www.instagram.com/edsouzowski/)
