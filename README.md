@@ -12,7 +12,7 @@
 ## Descrição
 Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos em aula e fora dela, a fim de criar uma empresa/negócio
 ## Modelo do Projeto
-+ [Arquivo Modelo](https://docs.google.com/document/d/1eBiBwBnci_1THGLKXCAZi4iIFgMRy2rshEZpGEyngk4/edit?usp=sharing)
++ [Arquivo Modelo](https://github.com/EdsonMSouza/2_noite_projeto/blob/master/Instru%C3%A7%C3%B5es%20do%20Projeto.pdf)
 
 ## Links recomendados para leitura
 + [SEBRAE](https://m.sebrae.com.br/sites/PortalSebrae/artigos/passo-a-passo-para-elaborar-o-plano-de-negocios-de-sua-empresa,d7296a2bd9ded410VgnVCM1000003b74010aRCRD)
