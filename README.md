@@ -38,20 +38,20 @@ Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos e
 	+ Perfil do empreendedores
 	+ Quem administrará o negócio?
 
-+ **14/09** - **Plano de Marketing**
++ **21/09** - **Plano de Marketing**
 	+ Análise SWOT - Principais pontos fortes e fracos em comparação com a concorrência?
 	+ Quem são seus clientes potenciais? Como eles podem ser segmentados?
 	+ Quem são seus concorrentes? Como tem sido o desempenho deles?
 	+ Quem serão seus principais fornecedores? Qual o poder de barganha deles?
 
-+ **21/09** - **Plano de Marketing**
++ **28/09** - **Plano de Marketing**
 	+ Qual o posicionamento desejado para sua empresa na mente dos clientes?
 	+ Qual será o sistema de distribuição utilizado?
 	+ Qual a estratégia de preço a ser adotada?
 	+ Quais serão as ações de comunicação?
 	+ Como será desenvolvido o design do seu produto?
 
-+ **28/09** - **Plano Operacional**
++ **05/10** - **Plano Operacional**
 	+ Aspectos técnicos e jurídicos do negócio.
 	+ Composição da qeuipe: CLT, PJ ou Flex.
 	+ Quantos colaboradores e que funções?
