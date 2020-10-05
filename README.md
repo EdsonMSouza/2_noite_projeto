@@ -60,4 +60,5 @@ Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos e
 	+ Quais são os consultores ou especialistas necessários?
 
 + **16/11** - **Entrega Final**
+
 Nesta data os projetos deveráo ser depositados via formulário do Google com todo o conteúdo de senvolvido.
