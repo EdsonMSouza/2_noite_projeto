@@ -58,3 +58,6 @@ Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos e
 	+ Quais as qualificações desejadas para a equipe?
 	+ Como definir a remuneração dos colaboradores?
 	+ Quais são os consultores ou especialistas necessários?
+
++ **16/11** - **Entrega Final**
+Nesta data os projetos deveráo ser depositados via formulário do Google com todo o conteúdo de senvolvido.
